@@ -1,2 +1,2 @@
 # -LearningApp
-<p>This repository is made for web devlopment workshop</p>
+<p>This repository is made for learning projects</p>
